@@ -6,8 +6,6 @@ date:       2016-12-23 23:00:00
 author:     "Bernardo Lopes"
 ---
 
-### Placas vulneráveis
-
 Neste post de estréia do Blog da Imagem Cardíaca vamos discutir:
 
 - Quais são as características de vulnerabilidade na placa?
