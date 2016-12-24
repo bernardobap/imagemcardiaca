@@ -3,7 +3,7 @@ layout:     post
 title:      "Placas vulneráveis"
 subtitle:   "Entendendo as características da placa e do paciente, e o que fazer?"
 date:       2016-12-23 23:00:00
-author:     "Bernardo Lopes"
+author:     "Teste"
 ---
 
 Neste post de estréia do Blog da Imagem Cardíaca vamos discutir:
